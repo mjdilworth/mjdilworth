@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjdilworth
 - 👀 I’m interested in golang, cloud, anything tech related
 - 🌱 I’m currently learning to be more patient
-- 💞️ I’m looking to collaborate on anything interesting in go, or c/c++
+- 💞️ I’m looking to collaborate on anything interesting in go, c/c++, python, react
 - 📫 How to reach me: mike@dilworth.uk or @enspect
 
 <!---
